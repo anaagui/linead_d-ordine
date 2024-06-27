@@ -163,7 +163,7 @@ specifications    </p>
     <p>This sub section should describe ...</p>
 </details>
 
-![Class Diagram](imgs/classDiagram.png)
+![Class Diagram](imgs/classeOrdine.png)
 ##### <a name="cd-description"></a>  4.1.1.1 Class Description
 <details> 
     <summary> Put a summary of the section
@@ -185,5 +185,5 @@ specifications    </p>
     <p>This sub section should describe ...</p>
 </details>
 
-![sequence diagram](imgs/sequence.png)
+![sequence diagram](imgs/DiagrammaDi Secuenza.png)
 
