@@ -185,5 +185,5 @@ specifications    </p>
     <p>This sub section should describe ...</p>
 </details>
 
-![sequence diagram](imgs/DiagrammaSequenza.png)
+![sequence diagram](imgs/Sequenza.png)
 
